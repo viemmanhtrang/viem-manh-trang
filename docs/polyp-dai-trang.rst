@@ -1,0 +1,1 @@
+.. include:: ../polypdaitrang.rst
