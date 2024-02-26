@@ -1,1 +1,1 @@
-.. include:: ../Viemmanhtrangvaviemruotthua.rst
+.. include:: ../viemmanhtrangvaviemruotthua.rst
