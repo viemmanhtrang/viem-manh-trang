@@ -23,14 +23,14 @@ VIÊM MANH TRÀNG, NGUYÊN NHÂN, CÁCH CHỮA BẰNG THẢO DƯỢC
 
    viem-manh-trang-va-viem-ruot-thua
 
-.. _cachchuapolyptructrang
+.. _benhviemhoimanhtrang
 
 .. toctree::
    :maxdepth: 2
    :glob:
    :caption: CÁCH CHỮA POLYP TRỰC TRÀNG BẰNG THUỐC NAM
 
-   cach-chua-polyp-truc-trang
+   benh-viem-hoi-manh-trang
 
 .. image:: /img/Polyp-truc-trang.jpg
    
