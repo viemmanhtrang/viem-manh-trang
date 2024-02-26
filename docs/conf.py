@@ -43,7 +43,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u' Polyp Đại Tràng'
+project = u' Viêm Manh Tràng'
 copyright = u'2024, Thảo mộc HHT'
 
 # The version info for the project you're documenting, acts as replacement for
