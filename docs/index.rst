@@ -7,7 +7,7 @@ VIÊM MANH TRÀNG, NGUYÊN NHÂN, CÁCH CHỮA BẰNG THẢO DƯỢC
 .. toctree::
    :maxdepth: 2
    :glob:
-   :caption: VIÊM MANH TRÀNG LÀ GÌ
+   :caption: 
 
    viem-manh-trang
    
