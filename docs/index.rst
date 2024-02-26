@@ -28,12 +28,19 @@ VIÊM MANH TRÀNG, NGUYÊN NHÂN, CÁCH CHỮA BẰNG THẢO DƯỢC
 .. toctree::
    :maxdepth: 2
    :glob:
-   :caption: CÁCH CHỮA POLYP TRỰC TRÀNG BẰNG THUỐC NAM
+   :caption: BỆNH VIÊM HỒI MANH TRÀNGUY
 
    benh-viem-hoi-manh-trang
 
-.. image:: /img/Polyp-truc-trang.jpg
-   
+.. _benhviemmanhtrangvacachdieutri
+
+.. toctree::
+   :maxdepth: 2
+   :glob:
+   :caption: BỆNH VIÊM MANH TRÀNG VÀ CÁCH ĐIỀU TRỊ
+
+   benh-viem-manh-trang-va-cach-dieu-tri
+
 
 .. note:: Liên hệ Thảo mộc HHT - Điện thoại, zalo: 0964.421.551 - 0932.340.345
 .. image:: /img/mot-so-san-pham-cua-thao-moc-hht.jpg
