@@ -1,26 +1,26 @@
 
-POLYP ĐẠI TRÀNG, NGUYÊN NHÂN, CÁCH CHỮA
-========================================
+VIÊM MANH TRÀNG, NGUYÊN NHÂN, CÁCH CHỮA BẰNG THẢO DƯỢC
+====================================================
 
-.. _polypdaitrang:
+.. _viemmanhtrang:
 
 .. toctree::
    :maxdepth: 2
    :glob:
-   :caption: POLYP ĐẠI TRÀNG, NGUYÊN NHÂN, CÁCH CHỮA BẰNG THẢO DƯỢC
+   :caption: VIÊM MANH TRÀNG LÀ GÌ
 
-   polyp-dai-trang
+   viem-manh-trang
    
-.. image:: /img/polyp-dai-trang-la-gi.jpg
+.. image:: /img/viem-manh-trang-la-gi.jpg
 
-.. _chuapolypdaitrangbangthuocnam:
+.. _viemmanhtrangvaviemruotthua:
 
 .. toctree::
    :maxdepth: 2
    :glob:
-   :caption: CÁCH CHỮA POLYP ĐẠI TRÀNG BẰNG THUỐC NAM
+   :caption: PHÂN BIỆT VIÊM MANH TRÀNG VÀ VIÊM RUỘT THỪA
 
-   chua-polyp-dai-trang-bang-thuoc-nam
+   viem-manh-trang-va-viem-ruot-thua
 
 .. _cachchuapolyptructrang
 
