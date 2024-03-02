@@ -139,7 +139,7 @@ Chúng tôi hiểu rằng sức khỏe là điều quan trọng nhất và cam k
 
 + Giá bán: **Giá bán 1 liệu trình là 400.000/ liệu trình** (chưa có cước vận chuyển)
 
-.. image:: /img/mua-thao-duoc-chua-viem-manh-trang.jpg
+.. image:: /img/docs/img/mua-thao-duoc-chua-viem-manh-trang.jpg
    :alt: "Mua thảo dược chữa viêm manh tràng ở đâu"
    :align: center
 
